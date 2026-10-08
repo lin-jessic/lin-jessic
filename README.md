@@ -1,4 +1,10 @@
-<div align="right">**繁體中文**　/　[English](./en/README.md)　/　[日本語](./ja/README.md)</div>
+
+<p align="right">
+  <strong>繁體中文</strong> &nbsp; | &nbsp;
+  <a href="https://github.com/lin-jessic/lin-jessic/blob/main/en/README.md">English</a> &nbsp; | &nbsp;
+  <a href="https://github.com/lin-jessic/lin-jessic/blob/main/ja/README.md">日本語</a>
+</p>
+  
 
 <p align="center"><img src="./assets/banner.svg" width="100%" alt="林冠妤 Guan-Yu Lin" /></p>
 
