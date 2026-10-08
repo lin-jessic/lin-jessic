@@ -1,4 +1,4 @@
-<div align="right">繁體中文　/　[English](./en/README.md)　/　[日本語](./ja/README.md)</div>
+<div align="right">**繁體中文**　/　[English](./en/README.md)　/　[日本語](./ja/README.md)</div>
 
 <p align="center"><img src="./assets/banner.svg" width="100%" alt="林冠妤 Guan-Yu Lin" /></p>
 
