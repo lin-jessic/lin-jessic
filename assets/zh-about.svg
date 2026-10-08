@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="210" viewBox="0 0 1000 210">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FAF7F2"/><stop offset="1" stop-color="#F0EAF3"/></linearGradient></defs>
+<rect width="1000" height="210" rx="18" fill="url(#g)"/>
+<rect x="0" y="0" width="6" height="100%" fill="#B5A3C3"/>
+<path d="M44 72 H956" stroke="#D6CBDD" stroke-width="1"/>
+<text x="44" y="51" font-family="Georgia, Noto Serif CJK TC, serif" font-size="27" fill="#65576F" font-weight="600">關於我 / ABOUT</text>
+<text x="44" y="111" font-family="Noto Sans CJK TC, Noto Sans CJK JP, Arial, sans-serif" font-size="21" fill="#514957">我是林冠妤（Guan-Yu Lin），來自台灣，目前就讀長庚大學資訊工程學系（台灣）。</text>
+<text x="44" y="147" font-family="Noto Sans CJK TC, Noto Sans CJK JP, Arial, sans-serif" font-size="21" fill="#514957">從生物與化學工程背景轉向資訊工程，我目前主要關注軟硬體整合、嵌入式系統與生物醫學影像分析。</text>
+<text x="44" y="183" font-family="Noto Sans CJK TC, Noto Sans CJK JP, Arial, sans-serif" font-size="21" fill="#514957">我喜歡透過實作、測試與研究，理解方法在真實系統中的運作方式。</text>
+</svg>

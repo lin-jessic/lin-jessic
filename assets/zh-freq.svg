@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="210" viewBox="0 0 1000 210">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FAF7F2"/><stop offset="1" stop-color="#F0EAF3"/></linearGradient></defs>
+<rect width="1000" height="210" rx="18" fill="url(#g)"/>
+<rect x="0" y="0" width="6" height="100%" fill="#B5A3C3"/>
+<path d="M44 72 H956" stroke="#D6CBDD" stroke-width="1"/>
+<text x="44" y="51" font-family="Georgia, Noto Serif CJK TC, serif" font-size="27" fill="#65576F" font-weight="600">02 / FreqFuseNet</text>
+<text x="44" y="111" font-family="Noto Sans CJK TC, Noto Sans CJK JP, Arial, sans-serif" font-size="21" fill="#514957">頭頸部危及器官 3D 醫學影像分割研究</text>
+<text x="44" y="147" font-family="Noto Sans CJK TC, Noto Sans CJK JP, Arial, sans-serif" font-size="21" fill="#514957">研究 FFT 與 FcaNet 頻率分支的尺度差異，以正規化與殘差融合改善特徵整合。</text>
+<text x="44" y="183" font-family="Noto Sans CJK TC, Noto Sans CJK JP, Arial, sans-serif" font-size="21" fill="#514957">使用 SegRap2023 驗證；我參與模型實驗、消融分析、基準比較及論文整理。</text>
+</svg>
