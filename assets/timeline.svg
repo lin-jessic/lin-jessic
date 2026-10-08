@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="315" viewBox="0 0 960 315" role="img" aria-label="專案時程甘特圖：寵物餵食機於大一，PineNose 從大二末至大四上，FreqFuseNet 從大三末至大四上投稿">
+<rect width="960" height="315" fill="#ffffff"/>
+<style>text{font-family:Arial,"Noto Sans TC",sans-serif;fill:#514a55}.head{font-size:15px;fill:#77707c}.label{font-size:17px;font-weight:600}.sub{font-size:12px;fill:#817785}</style>
+<text x="16" y="31" font-size="17" font-weight="600">PROJECT TIMELINE</text>
+<text x="16" y="53" class="sub">以學習階段概略標示，非精確日期</text>
+<text x="271.0" y="79" text-anchor="middle" class="head">大一</text>
+<line x1="215" y1="90" x2="215" y2="274" stroke="#e7e0e9"/>
+<text x="383.0" y="79" text-anchor="middle" class="head">大二下</text>
+<line x1="327" y1="90" x2="327" y2="274" stroke="#e7e0e9"/>
+<text x="495.0" y="79" text-anchor="middle" class="head">大三上</text>
+<line x1="439" y1="90" x2="439" y2="274" stroke="#e7e0e9"/>
+<text x="607.0" y="79" text-anchor="middle" class="head">大三下</text>
+<line x1="551" y1="90" x2="551" y2="274" stroke="#e7e0e9"/>
+<text x="719.0" y="79" text-anchor="middle" class="head">暑假</text>
+<line x1="663" y1="90" x2="663" y2="274" stroke="#e7e0e9"/>
+<text x="831.0" y="79" text-anchor="middle" class="head">大四上</text>
+<line x1="775" y1="90" x2="775" y2="274" stroke="#e7e0e9"/>
+<line x1="887" y1="90" x2="887" y2="274" stroke="#e7e0e9"/>
+<text x="16" y="130" class="label">ESP32 Pet Feeder</text>
+<text x="16" y="147" class="sub">早期實作</text>
+<line x1="215" y1="138" x2="887" y2="138" stroke="#f0ecf1" stroke-width="24"/>
+<text x="16" y="189" class="label">PineNose</text>
+<text x="16" y="206" class="sub">開發 → 競賽</text>
+<line x1="215" y1="197" x2="887" y2="197" stroke="#f0ecf1" stroke-width="24"/>
+<text x="16" y="248" class="label">FreqFuseNet</text>
+<text x="16" y="265" class="sub">研究 → 投稿</text>
+<line x1="215" y1="256" x2="887" y2="256" stroke="#f0ecf1" stroke-width="24"/>
+<rect x="220" y="126" width="102" height="24" rx="3" fill="#b4a2bd"/>
+<rect x="412.64" y="185" width="248.72000000000003" height="24" rx="3" fill="#b4a2bd"/>
+<rect x="671.36" y="185" width="210.64" height="24" rx="3" fill="#d3c2d9"/>
+<rect x="632.1600000000001" y="244" width="141.20000000000002" height="24" rx="3" fill="#8d809b"/>
+<rect x="783.36" y="244" width="98.63999999999997" height="24" rx="3" fill="#d3c2d9"/>
+<rect x="220" y="289" width="13" height="9" fill="#b4a2bd"/>
+<text x="240" y="298" class="sub">實作／研究</text>
+<rect x="340" y="289" width="13" height="9" fill="#d3c2d9"/>
+<text x="360" y="298" class="sub">參賽／投稿與後續優化</text>
+</svg>
